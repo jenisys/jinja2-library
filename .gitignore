@@ -1,0 +1,28 @@
+*.egg-info
+*.lock
+*.log
+*.pyc
+*.pyo
+*$py.class
+.DS_Store
+.coverage
+.done.*
+.python-version
+__*.txt
+__*.md
+
+# -- TEMPORARY FILES:
+jinja2_library/_version.py
+
+# -- TEMPORARY DIRECTORIES:
+build/
+dist/
+**/__pycache__/
+__*/
+.cache/
+.idea/
+.pytest_cache/
+.ruff_cache/
+.tox/
+.venv*/
+.vscode/

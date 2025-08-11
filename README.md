@@ -3,7 +3,6 @@
 [![CI Build Status](https://github.com/jenisys/jinja2-library/actions/workflows/test.yml/badge.svg)](https://github.com/jenisys/jinja2-library/actions/workflows/test.yml)
 [![Latest Version](https://img.shields.io/pypi/v/jinja2-library.svg)](https://pypi.python.org/pypi/jinja2-library)
 [![License](https://img.shields.io/pypi/l/jinja2-library.svg)](https://github.com/jenisys/jinja2-library/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/pypi/dm/jinja2-library.svg)](https://pypi.python.org/pypi/jinja2-library)
 
 Provides a library functionality for [Jinja2] extensions that can be used in templates.
 
